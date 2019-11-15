@@ -8,6 +8,6 @@
 </head>
 <body>
 ${user.name}
-${user.age }
+${user.age}
 </body>
 </html>
